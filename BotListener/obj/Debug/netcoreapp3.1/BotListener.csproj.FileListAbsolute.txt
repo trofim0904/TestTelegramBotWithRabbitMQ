@@ -1,0 +1,17 @@
+E:\C#\Telegram Bots\Bot8Lab\BotListener\bin\Debug\netcoreapp3.1\BotListener.exe
+E:\C#\Telegram Bots\Bot8Lab\BotListener\obj\Debug\netcoreapp3.1\BotListener.csprojAssemblyReference.cache
+E:\C#\Telegram Bots\Bot8Lab\BotListener\obj\Debug\netcoreapp3.1\BotListener.AssemblyInfoInputs.cache
+E:\C#\Telegram Bots\Bot8Lab\BotListener\obj\Debug\netcoreapp3.1\BotListener.AssemblyInfo.cs
+E:\C#\Telegram Bots\Bot8Lab\BotListener\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\C#\Telegram Bots\Bot8Lab\BotListener\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+E:\C#\Telegram Bots\Bot8Lab\BotListener\obj\Debug\netcoreapp3.1\BotListener.csproj.CopyComplete
+E:\C#\Telegram Bots\Bot8Lab\BotListener\bin\Debug\netcoreapp3.1\BotListener.deps.json
+E:\C#\Telegram Bots\Bot8Lab\BotListener\bin\Debug\netcoreapp3.1\BotListener.runtimeconfig.json
+E:\C#\Telegram Bots\Bot8Lab\BotListener\bin\Debug\netcoreapp3.1\BotListener.runtimeconfig.dev.json
+E:\C#\Telegram Bots\Bot8Lab\BotListener\bin\Debug\netcoreapp3.1\BotListener.dll
+E:\C#\Telegram Bots\Bot8Lab\BotListener\bin\Debug\netcoreapp3.1\BotListener.pdb
+E:\C#\Telegram Bots\Bot8Lab\BotListener\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\C#\Telegram Bots\Bot8Lab\BotListener\obj\Debug\netcoreapp3.1\BotListener.csproj.CoreCompileInputs.cache
+E:\C#\Telegram Bots\Bot8Lab\BotListener\obj\Debug\netcoreapp3.1\BotListener.dll
+E:\C#\Telegram Bots\Bot8Lab\BotListener\obj\Debug\netcoreapp3.1\BotListener.pdb
+E:\C#\Telegram Bots\Bot8Lab\BotListener\obj\Debug\netcoreapp3.1\BotListener.genruntimeconfig.cache

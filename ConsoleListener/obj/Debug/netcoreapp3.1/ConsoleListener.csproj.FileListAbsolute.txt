@@ -1,0 +1,15 @@
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\bin\Debug\netcoreapp3.1\ConsoleListener.exe
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\obj\Debug\netcoreapp3.1\ConsoleListener.csprojAssemblyReference.cache
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\obj\Debug\netcoreapp3.1\ConsoleListener.AssemblyInfoInputs.cache
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\obj\Debug\netcoreapp3.1\ConsoleListener.AssemblyInfo.cs
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\bin\Debug\netcoreapp3.1\ConsoleListener.deps.json
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\bin\Debug\netcoreapp3.1\ConsoleListener.runtimeconfig.json
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\bin\Debug\netcoreapp3.1\ConsoleListener.runtimeconfig.dev.json
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\bin\Debug\netcoreapp3.1\ConsoleListener.dll
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\bin\Debug\netcoreapp3.1\ConsoleListener.pdb
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\obj\Debug\netcoreapp3.1\ConsoleListener.csproj.CoreCompileInputs.cache
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\obj\Debug\netcoreapp3.1\ConsoleListener.csproj.CopyComplete
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\obj\Debug\netcoreapp3.1\ConsoleListener.dll
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\obj\Debug\netcoreapp3.1\ConsoleListener.pdb
+E:\C#\Telegram Bots\Bot8Lab\ConsoleListener\obj\Debug\netcoreapp3.1\ConsoleListener.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\bin\Debug\netcoreapp3.1\Bot8Lab.exe
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\obj\Debug\netcoreapp3.1\Bot8Lab.csprojAssemblyReference.cache
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\obj\Debug\netcoreapp3.1\Bot8Lab.AssemblyInfoInputs.cache
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\obj\Debug\netcoreapp3.1\Bot8Lab.AssemblyInfo.cs
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\bin\Debug\netcoreapp3.1\Bot8Lab.deps.json
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\bin\Debug\netcoreapp3.1\Bot8Lab.runtimeconfig.json
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\bin\Debug\netcoreapp3.1\Bot8Lab.runtimeconfig.dev.json
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\bin\Debug\netcoreapp3.1\Bot8Lab.dll
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\bin\Debug\netcoreapp3.1\Bot8Lab.pdb
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\obj\Debug\netcoreapp3.1\Bot8Lab.csproj.CopyComplete
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\obj\Debug\netcoreapp3.1\Bot8Lab.dll
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\obj\Debug\netcoreapp3.1\Bot8Lab.pdb
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\obj\Debug\netcoreapp3.1\Bot8Lab.genruntimeconfig.cache
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\C#\Telegram Bots\Bot8Lab\Bot8Lab\obj\Debug\netcoreapp3.1\Bot8Lab.csproj.CoreCompileInputs.cache
